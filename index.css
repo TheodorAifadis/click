@@ -1,9 +1,14 @@
 body {background-color: violet;}
 h1 {color: blue;}
 h1 {font-family: Comic Sans MS;}
+h1 {text-align: center}
+h1 {font-size: 50pt;}
+h2 {text-align: center}
+h2 {font-family: Comic Sans MS;}
+h2 {color: darkgreen;}
 
 button {background-color: yellow;
-margin-left: 390pt;
+margin-left: 370pt;
 font-family: Comic Sans MS;
 font-size: 30pt;
 }
