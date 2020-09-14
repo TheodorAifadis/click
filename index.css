@@ -1,0 +1,15 @@
+body {background-color: violet;}
+h1 {color: blue;}
+h1 {font-family: Comic Sans MS;}
+
+button {background-color: yellow;
+margin-left: 390pt;
+font-family: Comic Sans MS;
+font-size: 30pt;
+}
+
+button {
+    color: crimson;
+    width: 260pt;
+    height: 60pt;
+}
